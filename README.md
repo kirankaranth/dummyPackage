@@ -1,3 +1,3 @@
 # testProjectWithRelease Repository
 
-v1
+v2
