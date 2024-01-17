@@ -1,0 +1,3 @@
+# testProjectWithRelease Repository
+
+v1
