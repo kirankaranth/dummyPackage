@@ -1,6 +1,6 @@
 name: testProjectWithRelease
 description: ''
-version: 0.0.1
+version: '1'
 author: kiranadmin@prophecy.io
 language: python
 buildSystem: ''
@@ -15,8 +15,8 @@ datasets: {}
 templates: {}
 jobs: {}
 gemContainer:
-  languageVersion: ''
-  gemLibsVersion: ''
+  languageVersion: '3.10'
+  gemLibsVersion: 1.3.4.0
   gems: {}
   dependencies: null
 functions:
